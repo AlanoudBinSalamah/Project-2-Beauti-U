@@ -1,6 +1,7 @@
 {
   "name": "beauti-u-project2",
   "version": "1.0.0",
+  "start" : "node index.js",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "11.3.0"
+    "node": "10.13.0"
   },
   "author": "Alanoud",
   "license": "ISC",

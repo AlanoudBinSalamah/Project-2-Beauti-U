@@ -9,5 +9,5 @@ var config={
     password: 0000
 }
 
-var connection = pgInstance(config);
+var connection = pgInstance( process.env.DATABASE_URL ||config);
 module.exports = connection;
