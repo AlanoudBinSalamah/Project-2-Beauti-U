@@ -33,7 +33,7 @@ app.get('/', function(req,res){
 var stylistController = require('./controllers/stylistController');
 var artistController = require('./controllers/artistController');
 var customerController = require('./controllers/customerController');
- var appointmrntController = require('./controllers/appointmentController');
+var appointmrntController = require('./controllers/appointmentController');
 
 
 app.use('/stylists',stylistController);
