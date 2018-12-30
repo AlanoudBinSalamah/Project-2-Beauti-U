@@ -1,5 +1,9 @@
-3 Explanations of the technologies used:
-Node.js
+# Explanations of the technologies used:
+
+html
+js
+css not applied
+
 npm packeges :
 - mustache express
 - express
@@ -8,5 +12,22 @@ npm packeges :
 -nodemon
 
 # Wireframes
-customer should 
+https://wireframe.cc/HO9eim
+
+#User stories:
+free customers can create appointments with artists of their own choice at anytime with their information they applied
+
+#Aproach taken
+
+MCV
+
+# Unsolved problems
+accessing the database "auth
+
+#Shout-outs
+
+EVERYONE
+
+
+
 
